@@ -16,7 +16,7 @@ function Button(){
           borderStyle:'none',
           cursor: 'pointer'}} onClick={()=>{
      dispatch(getData());
-    }}>get Data</button></Link>
+    }}>CLICK TO LOAD</button></Link>
     
   </div>
 }
